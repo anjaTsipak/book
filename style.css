@@ -1,0 +1,28 @@
+body{
+    background-image: url(imagevect.jpg);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.menu {
+    padding: 15px 0 15px 0;
+    background-color: rgba(221, 90, 46, 0.66);
+    border-radius: 15px;
+    background-position: center;
+}
+
+.content {
+	padding: 20px 0 50px 0;
+    background-color: rgba(232, 172, 137, 0.76);
+    border-radius: 15px;
+    background-position: center;}
+.anna{
+    padding: 20px;
+}
